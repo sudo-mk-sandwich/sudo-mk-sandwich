@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello :)
+
+![Want a Sandwich?](Sudo.jpg)
 
 <!--
 **sudo-mk-sandwich/sudo-mk-sandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
